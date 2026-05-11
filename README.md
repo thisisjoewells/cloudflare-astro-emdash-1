@@ -1,3 +1,9 @@
+# Trying EmDash CMS?
+I'm going to be trying out EmDash CMS. I couldn't help myself with all the hyped going around. It does look very interesting. Plus, bonus, I've been wanting to learn more about Astro and static site anyways. So an Astro-based serverless CMS with marky-downy all the thing? I'll try it.  (Joe Wells - 5/11/26)
+
+
+...here follows the starter ReadMe included with my initial install from template...
+
 # Astro Starter Kit: Blog
 
 [![Deploy to Cloudflare](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/cloudflare/templates/tree/main/astro-blog-starter-template)
