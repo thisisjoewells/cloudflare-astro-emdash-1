@@ -1,4 +1,9 @@
 # Trying EmDash CMS?
+
+Shoot. I did this wrong. I thought I'd set up a GitHub-connected Repo with Astro and then "install EmDash CMS into it". But I think it will be better to start with the "Deploy to Cloudflare" button right on the blog post that started it all. (Joe Wells - 5/11/26)
+
+[!The Blog Post That Started it all](https://blog.cloudflare.com/emdash-wordpress/)
+
 I'm going to be trying out EmDash CMS. I couldn't help myself with all the hyped going around. It does look very interesting. Plus, bonus, I've been wanting to learn more about Astro and static site anyways. So an Astro-based serverless CMS with marky-downy all the thing? I'll try it.  (Joe Wells - 5/11/26)
 
 
